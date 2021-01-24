@@ -5,8 +5,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://mirrors.lolinet.com/firmware/gsi/OneUI/OneUI-AB-9-20190602-ErfanGSI.img.7z  ErfanGSIs
-  ROM_NAME: OneUI
+  ROM_URL: https://assorted.downloads.oppo.com/firmware/CPH2089/CPH2089EU_11_OTA_0400_all_zce8BgCfYuJK.ozip  ErfanGSIs
+  ROM_NAME: ColorOS
   TZ: Asia/Kolkata
   MIR: wet
   ZIP_NAME: Color
