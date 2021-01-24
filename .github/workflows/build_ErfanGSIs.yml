@@ -6,7 +6,7 @@ on:
     
 env:
   ROM_URL: https://assorted.downloads.oppo.com/firmware/CPH2089/CPH2089EU_11_OTA_0400_all_zce8BgCfYuJK.ozip
-  ROM_NAME: Color Os
+  ROM_NAME: ColorOs
   TZ: Asia/Kolkata
   MIR: wet
   ZIP_NAME: Color-7
