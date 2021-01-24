@@ -9,7 +9,7 @@ env:
   ROM_NAME: ColorOs
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Color-7
+  ZIP_NAME: ColorOs
 jobs:
   build:
     runs-on: ubuntu-latest
