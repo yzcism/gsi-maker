@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://assorted.downloads.oppo.com/firmware/CPH2089/CPH2089EU_11_OTA_0400_all_zce8BgCfYuJK.ozip  ErfanGSIs
-  ROM_NAME: ColorOS
+  ROM_URL: https://mirrors.lolinet.com/firmware/gsi/Flyme/Flyme-AB-9-20190702-ErfanGSI.img.7z  ErfanGSIs
+  ROM_NAME: Flyme
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Color
+  ZIP_NAME: Flyme-8
 jobs:
   build:
     runs-on: ubuntu-latest
